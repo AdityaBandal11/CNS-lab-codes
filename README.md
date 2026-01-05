@@ -38,5 +38,3 @@ This repository includes implementations related to:
 
 ---
 
-## 📂 Repository Structure
-
